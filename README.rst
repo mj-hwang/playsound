@@ -1,3 +1,5 @@
+**This repository is a forked repository of `playsound` that contains a small fix to ressolve loading error (PlaysoundException) in MacOS (see https://github.com/TaylorSMarks/playsound/issues/107 for details).**
+
 playsound
 =========
 *Pure Python, cross platform, single function module with no dependencies for playing sounds.*
